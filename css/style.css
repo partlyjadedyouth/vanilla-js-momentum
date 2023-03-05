@@ -1,0 +1,46 @@
+div {
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+#clock {
+    font-size: 9em;
+    text-align: center;
+    margin-bottom: 0;
+    text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+}
+
+input {
+    width: 20%;
+    padding: 10px 20px;
+    margin: 5px 0;
+    border: none;
+    border-bottom: solid 2px;
+}
+
+#weather {
+    font-weight: bold;
+    font-style: italic;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+}
+
+#greeting {
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+}
+
+ul {
+    text-align: center;
+    list-style-type: decimal;
+    list-style-position: inside;
+}
+
+button {
+    margin-left: 10px;
+    background-color: transparent;
+}
